@@ -27,7 +27,8 @@ This script searches for your memory status and character and creates a safe cop
 
 
 ## Instructions
-# How to Transfer Enshrouded Savegame to Server
+**Precautionary Note**
+Before proceeding, please ensure that your antivirus program is temporarily disabled. This is because the EnshroudedSafer tool may access your program's x64 file, causing Windows to flag it as a potential virus. Rest assured, it is not a virus, as evidenced by numerous positive reviews.
 
 ## 1. Download Tool
 - Download the EnshroudedSafer tool.
