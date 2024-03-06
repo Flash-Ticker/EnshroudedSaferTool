@@ -9,7 +9,7 @@
 **Plugin language:** *en*
 **Author:** [@RustFlash](https://github.com/Flash-Ticker)
 
-![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/EnshroudedSafer/blob/main/Thumbnail.png)
+![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/EnshroudedSaferTool/blob/main/Thumbnail.png)
  
 
 ## Features
